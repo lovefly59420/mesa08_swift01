@@ -10,9 +10,9 @@ import Foundation
 
 print("Hello, World!")
 print(4+5)
-var a = Int.max;
-print(a);
-var b = a-1;
+var c = Int.max;
+print(c);
+var b = c-1;
 print(b)
 
 
